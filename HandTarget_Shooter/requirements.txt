@@ -1,0 +1,4 @@
+# Prebuilt Windows wheels available for Python 3.13 64-bit.
+mediapipe>=1.2.2,<2
+opencv-contrib-python>=4.8,<6
+numpy>=1.26,<3
