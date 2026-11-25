@@ -1,4 +1,4 @@
-[English](README.md) | [日本語](README.ja.md)
+**English** | [日本語](README.ja.md)
 
 # Hand Target Shooter
 
@@ -42,4 +42,4 @@ python -m venv .venv
 .\.venv\Scripts\python.exe main.py --camera 0
 ```
 
-Camera frames are processed locally. Source is MIT-licensed; MediaPipe and other libraries keep their own terms. Japanese documentation: [README.ja.md](README.ja.md).
+Camera frames are processed locally. Source is MIT-licensed; MediaPipe and other libraries keep their own terms. Detailed Japanese docs (how to play, controls, firing logic): [HandTarget_Shooter/README.md](HandTarget_Shooter/README.md).
